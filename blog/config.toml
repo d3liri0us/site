@@ -1,4 +1,4 @@
 baseURL = 'https://d3liri0us.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "It's d3liri0us"
 theme = 'hugo-dusk'
